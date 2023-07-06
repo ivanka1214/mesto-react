@@ -2,7 +2,7 @@ import Header from './Header.js';
 import Main from './Main.js';
 import Footer from './Footer.js';
 import PopupWithForm from './PopupWithForm/PopupWithForm.js';
-import PopupImage from './PopupImage.js';
+import ImagePopup from './ImagePopup.js';
 import { useState } from 'react';
 
 function App() {
@@ -99,7 +99,7 @@ function App() {
         title='ВЫ уверена?'
         titleButton='Да'>
       </PopupWithForm>
-      <PopupImage card={selectedCard} isOpen={isImagePopup} onClose={closeAllPopups} />
+      <ImagePopup card={selectedCard} isOpen={isImagePopup} onClose={closeAllPopups} />
     </>
   );
 }

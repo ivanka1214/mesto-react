@@ -9,8 +9,8 @@ function Footer() {
     
       
 
-    <footer class="footer">
-    <p class="footer__text">© 2020 Mesto Russia</p>
+    <footer className="footer">
+    <p className="footer__text">© 2020 Mesto Russia</p>
   </footer>
     
     );

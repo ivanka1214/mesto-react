@@ -29,9 +29,7 @@ function App() {
   function handleAddPlaceClick() {
     setIsAddPlacePopupOpen(true);
   }
-  // function handleDelete() {
 
-  // }
   function handleCardClick(card) {
     setSelectedCard(card)
     setImagePopup(true)

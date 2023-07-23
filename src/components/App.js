@@ -103,6 +103,7 @@ function App() {
         setIsSend(false)
       })
       .catch((error) => console.error(`ошибка ${error}`))
+      .finally(() => setIsSend(false))
   }
 
   function handleUpdateUser(dataUser, reset) {

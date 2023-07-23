@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mesto-react/static/css/main.cc008345.css",
+    "main.js": "/mesto-react/static/js/main.3c385a35.js",
+    "static/js/787.5530211c.chunk.js": "/mesto-react/static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Regular.woff?v=3.19": "/mesto-react/static/media/Inter-Regular.34ed58565339f4f3be40.woff",
+    "static/media/Inter-Regular.woff2?v=3.19": "/mesto-react/static/media/Inter-Regular.4c96ed73beaf6d1e6cc7.woff2",
+    "static/media/Inter-Medium.woff?v=3.19": "/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Medium.woff2?v=3.19": "/mesto-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/mesto-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/load.gif": "/mesto-react/static/media/load.1952935ed80fba5926fe.gif",
+    "static/media/logo.svg": "/mesto-react/static/media/logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
+    "static/media/love.svg": "/mesto-react/static/media/love.0bc60938ca96a5dcae18.svg",
+    "index.html": "/mesto-react/index.html",
+    "static/media/trash.svg": "/mesto-react/static/media/trash.823b0cf1b0b7e9cb7cad.svg",
+    "static/media/love_black.svg": "/mesto-react/static/media/love_black.e787eeb70bb65b7b453a.svg",
+    "static/media/vectors.svg": "/mesto-react/static/media/vectors.8667ac4a523e8fc42e59.svg",
+    "static/media/plus.svg": "/mesto-react/static/media/plus.d86bb2edc2f6eadb96b7.svg",
+    "static/media/close.svg": "/mesto-react/static/media/close.b793e07c3f4c19e26c11.svg",
+    "main.cc008345.css.map": "/mesto-react/static/css/main.cc008345.css.map",
+    "main.3c385a35.js.map": "/mesto-react/static/js/main.3c385a35.js.map",
+    "787.5530211c.chunk.js.map": "/mesto-react/static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc008345.css",
+    "static/js/main.3c385a35.js"
+  ]
+}

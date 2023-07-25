@@ -116,6 +116,7 @@ function App() {
         setIsSend(false)
       })
       .catch((error) => console.error(`ошибка ${error}`))
+       .finally(() => setIsSend(false))
   }
 
   function handleUpdateAvatar(dataUser, reset) {
@@ -128,6 +129,7 @@ function App() {
         setIsSend(false)
       })
       .catch((error) => console.error(`ошибка ${error}`))
+       .finally(() => setIsSend(false))
   }
 
   function handleAddPlaceSubmit(dataCard, reset) {
@@ -140,6 +142,7 @@ function App() {
         setIsSend(false)
       })
       .catch((error) => console.error(`ошибка ${error}`))
+       .finally(() => setIsSend(false))
   }
 
 
